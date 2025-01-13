@@ -10,9 +10,8 @@ export type stringInfo = {
     length: number,
     extraInfo: Object | undefined
 }
-
-export function getStringInfo(arg: string): stringInfo {
-    return{
+export function getStringInfo(arg: string): stringInfo{
+    return {
         lowerCase: arg.toLowerCase(),
         upperCase: arg.toUpperCase(),
         characters: Array.from(arg),
