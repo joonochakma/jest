@@ -4,10 +4,10 @@ FN:1,toUpperCase
 FN:13,getStringInfo
 FNF:2
 FNH:2
-FNDA:2,toUpperCase
+FNDA:5,toUpperCase
 FNDA:6,getStringInfo
 DA:1,1
-DA:2,2
+DA:2,5
 DA:13,1
 DA:14,6
 LF:4
